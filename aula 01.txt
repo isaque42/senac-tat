@@ -1,0 +1,22 @@
+Aprendendo a utilizar o Github
+
+Atualização de software
+pacotez
+base do sistema
+baixar google chrome, opera e microsoft edge
+intalação utilizando a central de aplicativos 
+
+A_KolourPaint
+B_Kazam
+C_Audacity
+D_VLC
+E_Guvcview
+
+utilizar o comando "sudo apt update" sempre antes de instalar 
+
+estudar o "python"
+sudo apt update
+sudo apt install git vim python2 e python3
+
+#DESAFIO: WPS OFFICE (DEB)
+KDENLIVE (APPIMAGE) <-- EDITOR DE VIDEO
