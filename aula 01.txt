@@ -1,22 +1,39 @@
 Aprendendo a utilizar o Github
 
-Atualização de software
-pacotez
-base do sistema
-baixar google chrome, opera e microsoft edge
-intalação utilizando a central de aplicativos 
+Objetivo da aula de hoje: 20/10/2023 (CONTINUAÇÃO)
 
-A_KolourPaint
-B_Kazam
-C_Audacity
-D_VLC
-E_Guvcview
+Primeira etapa: Iniciar o Linux Mint
 
-utilizar o comando "sudo apt update" sempre antes de instalar 
+Segunda etapa.: Atualizar o Linux Mint
+				#01 utilizar o MintUpdate
+				#02 utilziar o Terminal
+					Ctrl + Alt + T
+					sudo apt update
+					sudo apt upgrade
+					sudo apt full-upgrade
+					sudo apt dist-upgrade
+					sudo apt autoremove
+					sudo apt autoclean
 
-estudar o "python"
-sudo apt update
-sudo apt install git vim python2 e python3
-
-#DESAFIO: WPS OFFICE (DEB)
-KDENLIVE (APPIMAGE) <-- EDITOR DE VIDEO
+Terceira etapa: Instalação de Software
+				#01_ Pacotes .deb
+					#A_ Base do Sistema
+					#B_ Sistema Gdeb
+				#DESAFIO:	Opera
+							Microsoft Edge
+								#BETA - DEV
+				download opera linux
+				#02_ Central de Aplicativos
+					#A_ KolourPaint
+					#B_ Kazam
+					#C_ Audacity
+					#D_ VLC
+					#E_ Guvcview
+				#03_ Utilizando o Terminal
+					#A_ apt
+					#B_ dpkg
+					#C_ apt-get ou aptitude
+				sudo apt update
+				sudo apt install git vim python2 python3
+				#DESAFIO: WPS OFFICE (DEB)
+						  KDENLIVE (APPIMAGE)
