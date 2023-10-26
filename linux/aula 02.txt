@@ -1,0 +1,175 @@
+para iniciar um arquivo em texto no Visual Studio teclar "Ctrl + N" 
+
+Terminal: Bash / Shell Script
+Shell: é uma linguagem de programação
+Bash: é um intepretador de comandos igual ao o cmd
+
+~ : segifica diretório pessoal
+$ : segnifica igual usuario comum 
+# : super usuario
+
+sudo -i : segnifica se tornar super usuario
+exit: voltar ao usuario comum
+=============================================
+comandos de manipulação de diretórios 
+
+Todos comandos em linux é minusculo 
+
+Comando ls: é listar arquivos ou diretórios 
+ o sinal de  "- ou seja menos" segnifica passar uma opção 
+
+ ls -a: segnifica mostrar tudo 
+ ls -lha: ver os arquivos detalhadamente de forma humana 
+
+ Todo arquivo iniciar com ponto, ele está oculto
+
+ Branco: arquivo de texto
+ Azul:
+
+ cd: mudar de diretórios
+ pwd: qual diretório você está
+
+ Cor Azul calcinha: link simbolico, você está vendo mais não existe
+ Cor marca verde texto: Perigo 
+
+ Simbolo "/" segnifica que você estpa na RAIZ
+
+ comando (cd -) só volta apenas uma vez
+ cd~: o tio, representa sempre seu diretório pessoal 
+ cd ..: Segnifica descer um nivel 
+ pwd: qual diretório você está
+ History: Mostra o histórico de comandos utilizados 
+!: segnifica executar o comando da linha de referência 
+mkdir: comando para criar diretórios
+  mkdir -v: segnifica verboso , ele mostra oque você está fazendo (detalhado) e com algum nome na frente cria pasta
+
+  Criar um diretório SENAC Tatuapé
+
+  mkdir -v + Aspas simples no inicio e no final ' ', cria uma pasta com duas palavras ou seja, diretório
+
+  ajuda de comandos 
+
+  --help
+
+  para criar uma pasta SENAC e dentro da pasta senac criar outras: mkdir -pv tat/info
+
+  rm - remover arquivos ou diretórios 
+  -f : segnifica forçar
+  -v: segnifica verboso
+  -R: segnifica recursivo
+  rm -Rfv Alisson/: exclui a pasta
+============================================================================================
+ 1  sudo sc
+    2  apt update
+    3  sudo
+    4  sudo apt 
+    5  sudo apt up
+    6  sudo apt update
+    7  sudo apt up
+    8  sudo apt full-grade
+    9  sudo apt dist-upgrade
+   10  sudo apt autoremove
+   11  sudo apt clean
+   12  history 
+   13  sudo apt 
+   14  sudo apt install
+   15  sudo apt holliwod
+   16  holl
+   17  sudo apt holliwod
+   18  MintUpdate
+   19  sudo dpkg --configure -a
+   20  sudo apt update
+   21  id
+   22  sudo -i
+   23  ls 
+   24  ls
+   25  ls -lh
+   26  ls -a
+   27  ls -ha
+   28  cd
+   29  cd / 
+   30  cd/
+   31  cd /
+   32  ls
+   33  ls -lha
+   34  pwd
+   35  cd -
+   36  pwd
+   37  cd -
+   38  cd ~
+   39  ls 
+   40  cd Documentos/
+   41  cd Documentos 
+   42  cd Documentos / 
+   43  cd /
+   44  cd home/senac/Documentos/
+   45  cd /
+   46  cd ~/Documentos/
+   47  cd /
+   48  cd ~/Documentos/
+   49  cd ..
+   50  pwd
+   51  cd ..
+   52  cd ..]
+   53  cd ..
+   54  history
+   55  cd home/senac/Documentos/
+   56  mkdir senac
+   57  ls
+   58  mkdir senac
+   59  mkdir SENAC
+   60  mkdir -v tatuape
+   61  ls
+   62  cd s
+   63  mkdir -v Alisson Andrew Arthur Bruno Caio
+   64  ls
+   65  ls -lh
+   66  mkdir -v SENAC Tatuapé
+   67  mkdir -v SENAC.Tatuapé
+   68  mkdir -v SENAC  Tatuapé
+   69  mkdir -v 'SENAC  Tatuapé'
+   70  cd SENAC Tatuapé/
+   71  cd 'SENAC Tatuapé'
+   72  cd 'SENAC Tatuapé' /
+   73  cd ..
+   74  mkdir - v tat
+   75  cd ..
+   76  mkdri -v info
+   77  mkdir -v tat/
+   78  mkdir -v 'tat'/
+   79  sudo -i
+   80  cd senac
+   81  mkdir -v senac
+   82  cd senac/
+   83  mkdir -v -p tat/ info tst est amd
+   84  cd tat
+   85  ls
+   86  mkdir -v -p tat/ info tst est amd
+   87  ls
+   88  cd
+   89  mkdir --help
+   90  mkdir -v -p tat/ info tst est amd
+   91  cd
+   92  man mkdir
+   93  mkdir -pv tat/info
+   94  ~/Documentos/senac/
+   95  mkdir -pv tat/info
+   96  mkdir -v tat/tst tat/adm tat/est
+   97  cd senac/
+   98  cd..
+   99  cd ~
+  100  cd Documentos/
+  101  ls
+  102  rm -fv Alisson/
+  103  ls
+  104  rm -Rfv Alisson/
+  105  rm -Rfv Andrew/ Arthur/ Bruno/ Caio/
+  106  exit
+  107  history
+senac@senac-VirtualBox:~$ 
+
+
+
+  
+
+
