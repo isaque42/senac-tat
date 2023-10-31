@@ -1,0 +1,21 @@
+Terminal: Ctrl + T
+cd- mudar de diretório
+ls - listar arquivos e diretório 
+mkdir - criar diretórios 
+pwd - listar o diretório atual
+rm - remover arquivos ou diretórios
+echo - imprime na tela o conteudo 
+cat -imprime o conteudo do arquivo
+tac - lista o conteudo do arquivo invertido
+touch - muda a data e hora do arquivo
+cp - copiar arquivo ou diretório
+mv - mover arquivo ou diretório(renomear)
+---------------------------------------------
+head -lista o inicio do arquivo
+> - redirecionar de saída 
+>> - redirecionar de saída adicionando 
+|- redirecionar a saída de um comando com a entrada de outro comando
+less -  vizualuzador de arquivo 
+q - para sair do less
+
+Desafio: Listar o conteudo do arquivo em: /etc/services  das linas: 100 até 200, removendo as linha 1 até 99 e 201 até 361
